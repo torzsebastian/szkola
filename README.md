@@ -1,2 +1,2 @@
 # szkola
-Prawilne pliki
+
